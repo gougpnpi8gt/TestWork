@@ -1,0 +1,18 @@
+[
+  {
+    "carrier": "Airline A",
+    "departure_city": "Владивосток",
+    "arrival_city": "Тель-Авив",
+    "departure_time": "2022-05-15T10:15:00",
+    "arrival_time": "2022-05-15T16:45:00",
+    "price": 500
+  },
+  {
+    "carrier": "Airline B",
+    "departure_city": "Владивосток",
+    "arrival_city": "Тель-Авив",
+    "departure_time": "2022-05-15T11:00:00",
+    "arrival_time": "2022-05-15T17:30:00",
+    "price": 600
+  }
+]
